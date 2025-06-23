@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello there ❕
 
-I'm a passionate developer who loves building things with code!
+I'm a passionate .NET developer/ Fullsnack Developer 🍎 who loves building things with code!
 
-- 🔭 I’m currently working on [MyProject](https://github.com/yourusername/myproject)
-- 🌱 I’m currently learning Rust and Docker
-- 💬 Ask me about React, Node.js, or game development
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 💻 I’m currently working on [MyProject]("https://github.com/yourusername/myproject")
+- 🌱 I’m currently learning UX Design
+- 💬 Ask me about photography, training and prepping
+- 📫 How to reach me: [your.email@example.com](mailto:mariat.edstrom@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
