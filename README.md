@@ -10,7 +10,7 @@ I'm a passionate .NET developer/ Fullsnack Developer 🍎 who loves building thi
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/maria-edstr%C3%B6m-6b2215178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariaedström_linkedin" height="30" width="40"></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariaedström_instagram" height="30" width="40"></a>
+  <a href="https://www.instagram.com/studio_buzzer?igsh=d2F6cHE4NDdnMW5n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariaedström_instagram" height="30" width="40"></a>
 </p>
 
 <br>
