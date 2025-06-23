@@ -1,4 +1,4 @@
-### Hello there ❕
+## Hello there ❕
 
 I'm a passionate .NET developer/ Fullsnack Developer 🍎 who loves building things with code!
 
