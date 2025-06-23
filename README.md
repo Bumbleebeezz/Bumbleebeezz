@@ -5,7 +5,7 @@ I'm a passionate .NET developer/ Fullsnack Developer 🍎 who loves building thi
 - 💻 I’m currently working on [MyProject]("https://github.com/yourusername/myproject")
 - 🌱 I’m currently learning UX Design
 - 💬 Ask me about photography, training and prepping
-- 📫 How to reach me: [your.email@example.com](mailto:mariat.edstrom@gmail.com)
+- 📫 How to reach me: [mariat.edstrom@gmail.com](mailto:mariat.edstrom@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
