@@ -2,7 +2,7 @@
 
 I'm a passionate .NET developer/ Fullsnack Developer 🍎 who loves building things with code!
 
-- 💻 I’m currently working on [Updating my social media]("https://github.com/yourusername/myproject")
+- 💻 I’m currently working on [a blog where I am doing to post recipes, photografy, DIYs and training stuff]("https://github.com/yourusername/myproject")
 - 🌱 I’m currently learning UX Design
 - 💬 Ask me about photography, training and prepping
 - 📫 How to reach me: [mariat.edstrom@gmail.com](mailto:mariat.edstrom@gmail.com)
