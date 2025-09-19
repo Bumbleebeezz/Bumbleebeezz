@@ -3,7 +3,7 @@
 I'm a passionate .NET developer/ Fullsnack Developer 🍎 who loves building things with code!
 
 - 💻 I’m currently working on a blog where I am doing to post recipes, photografy, DIYs and training stuff "https://bumbleebeezz.github.io/Blog/" and mobile app for major shopping ocations
-- 🌱 I’m currently learning UX Design and 2D RPG game development
+- 🌱 I’m currently learning UX Design and 2D RPG game development, stream on [Twitch](https://www.twitch.tv/pixelbuzzbee) 
 - 💬 Ask me about photography, training and prepping
 - 📫 How to reach me: [mariat.edstrom@gmail.com](mailto:mariat.edstrom@gmail.com)
 
